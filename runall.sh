@@ -1,4 +1,4 @@
-# run_all.sh
+# runall.sh
 # Tiffany Timbers, Nov 2018
 
 # This driver script completes the textual analysis of
@@ -7,7 +7,7 @@
 # takes no arguments.
 
 # example usage:
-# bash run_all.sh
+# bash runall.sh
 
 # count the words
 python scripts/wordcount.py --input_file=data/isles.txt --output_file=results/isles.dat
